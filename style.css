@@ -338,7 +338,7 @@ h1 {
   background: linear-gradient(to bottom, rgb(30, 30, 143) 30%, rgba(23, 17, 54, 0.822) 70%);
 }
 
-.platform-handle {
+.platform-meta {
   overflow: hidden;
 }
 
