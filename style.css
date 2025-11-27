@@ -335,6 +335,7 @@ h1 {
 .git-section {
   padding: 60px 20px;
   text-align: center;
+  overflow: hidden;
   background: linear-gradient(to bottom, rgb(30, 30, 143) 30%, rgba(23, 17, 54, 0.822) 70%);
 }
 
